@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8b2a45efb381c740be1ddf21c659aad, type: 3}
+  m_Name: ResourceData
+  m_EditorClassIdentifier: 
+  _androidMainServerAddress: 
+  _androidTestServerAddress: 
+  _iosMainServerAddress: 
+  _iosTestServerAddress: 
+  _isAutoDownload: 0
+  _assetObjects:
+  - {fileID: -4008814011520278038, guid: 06f09b3a3bc75fe4f808b94f992451c0, type: 3}
+  _stringVars: []
+  _floatVars: []
+  _intVars: []
+  _persistSprites: []

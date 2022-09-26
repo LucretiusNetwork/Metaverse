@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a795ba308720f046a97341c60711da2, type: 3}
+  m_Name: UIMainConfig
+  m_EditorClassIdentifier: 
+  _screenItems:
+  - _screenKey: MainHud
+    _screenPrefab: {fileID: 6691972232462188075, guid: ab2b181a8d04b904bab582722a44a319, type: 3}
+  - _screenKey: SettingScreen
+    _screenPrefab: {fileID: 6546140563514648733, guid: 3c7549269f1368d4b942e0c2e91b1386, type: 3}
+  _mainCanvasPrefab: {fileID: 2071748494773216480, guid: ab5fcd5a32905ac41a45ea0efbc33352, type: 3}
+  _screenCanvasPrefab: {fileID: 8164409239795565221, guid: 820422756c195ca42860e1fa03397b31, type: 3}
+  _screenBlackPanelPrefab: {fileID: -4911458984060014917, guid: e9dbe733c154a824b8ed506fa7a020b7, type: 3}
+  _screenLockPanelPrefab: {fileID: 6596777761066941051, guid: 6b4f0fa829b89574d9e011c585669512, type: 3}
+  _popupPrefab: {fileID: 1732334451890075184, guid: 04f3027769bb6d0409a0f9320913e3fb, type: 3}
+  _popupPrefabCount: 3
